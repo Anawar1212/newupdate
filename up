@@ -3,6 +3,6 @@
     "des": "• TEST\n\n• test\n\n• TEST",
     "version": "1.1",
     "url": "https://www.google.com",
-    "check": "false"
+    "check": "true"
   }
 ]
